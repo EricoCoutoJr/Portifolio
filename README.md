@@ -3,10 +3,10 @@
 </p>
 
 # Erico Couto Jr
-<sub>*Data Scientist*</sub>
+### Data Scientist
 
 
-**Background in:** Python, Machine Learning and Mathematical Optimisation.
+**Background in:** Python, Azure, SQL, Machine Learning and Mathematical Optimisation.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ericocoutojr)
@@ -16,5 +16,11 @@
 ## Projetos:
 Veja os projetos publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* ** Screping Telegram Group ** https://bit.ly/3ax0rM9
+* ** Importando Dados do Mercado Financeiros ** https://bit.ly/3g9f0qm
+* ** Analise de Dados da ANP ** https://bit.ly/3g5MExp
 
+* ** Tutorial de Referência de Data Wrangling ** https://bit.ly/3iQazCB
+
+
+---
