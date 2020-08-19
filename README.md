@@ -21,6 +21,6 @@ Veja os projetos publicados:
 * ** Analise de Dados da ANP ** https://bit.ly/3g5MExp
 
 * ** Tutorial de Referência de Data Wrangling ** https://bit.ly/3iQazCB
-
+* ** OASAS Tratamento de Variáveis Categóricas ** https://bit.ly/3aG2QUT
 
 ---
